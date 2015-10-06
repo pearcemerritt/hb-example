@@ -1,0 +1,5 @@
+"You wake up in the middle of a clearing in a dark woods, there are two paths. The left looks darker, but the right has an eerie sound eminating from it. Which will you take (left = 1, right = 2):q"
+	"You go left... more stuff, look up or down"
+		"You look up ..."
+		"you look down"
+	"You go right ... more stuff"
